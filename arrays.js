@@ -94,4 +94,6 @@ function flatten(array) {
 
 const anArray = [[1], [2], [[3, 4]]];
 
-console.log(flatten(anArray));
+// console.log(flatten(anArray));
+
+//////////////////////////////////////////////////////////////
